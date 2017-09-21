@@ -327,18 +327,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempor
-    id turpis id fermentum. Maecenas non elit non arcu dignissim pharetra. Curabitur
-    at mauris sed purus imperdiet lobortis. Aliquam urna magna, mattis sit amet vestibulum
-    et, viverra ut metus. Curabitur iaculis aliquet est, sit amet vulputate urna laoreet
-    nec. Mauris vel purus quis ligula ornare aliquet. Ut ac nulla pellentesque, hendrerit
-    urna ac, iaculis orci. Aenean suscipit odio vitae lorem eleifend hendrerit vitae
-    et nisl. Pellentesque tincidunt dignissim est vitae egestas. Fusce vitae augue
-    nec eros volutpat vehicula. Praesent porta magna sit amet nisi lobortis eleifend.
-    Integer ac imperdiet erat. Donec id nisl turpis. Integer quis metus sed sapien
-    pulvinar elementum et ac eros. Integer in magna vel tellus volutpat pellentesque.
-    Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-    turpis egestas.\r\n\r\n"
+  m_Text: 
 --- !u!222 &852965476
 CanvasRenderer:
   m_ObjectHideFlags: 0
